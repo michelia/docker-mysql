@@ -1,4 +1,4 @@
-# docker-alpine-postgres
+# docker-mysql
 
 ### 构建
 `docker build -t mysqldev .`
